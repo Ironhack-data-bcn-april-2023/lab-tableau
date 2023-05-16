@@ -12,11 +12,11 @@ Your aim in this lab is to create a **Tableau dashboard** that shows the insight
 ## Your `data`
 In the `data` folder you will find the following files:
 
-**1. classicmodels.sql** : the classicmodels database (you can import it directly if you are using tableau desktop)
+**1. classicmodels.sql** : the classicmodels database (you can import it directly if you are using tableau desktop. chances are you're using Tableau Public)
 
 **2. ERD.png** : the ERD of the classicmodels database
 
-**3. .xlsx file** : In case you are using tableau public (or you want to practice), you can use this files to build the database on your own. This excel file contains the data displayed in several sheets inside the file. You'll have to build the relationships between tables on your own.
+**3. .xlsx file** : In case you are using tableau public (or you want to practice), you can use this files to build the database on your own. This excel file contains the data displayed in several sheets inside the file. You'll have to build the relationships between tables on your own. Make sure you match the keys between the tables. They can be matched.
 
 
 ## Getting Started
@@ -45,8 +45,6 @@ Create your own [tableau public profile](https://public.tableau.com/s/), and upl
 Add your deliverables to git. Then commit git and push your branch to the remote.
 
 Don't forget to create a pull request!
-
-(In case you have doubts about the pull request click [here](https://github.com/Ironhack-Data-Madrid-Marzo-2022/apuntes_clase/tree/master/Pull-requests_instructions#readme))
 
 ## Resources
 
