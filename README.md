@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
 
-# Lab | Tableau
+# Lab | Tableau-
 ![Tableau logo](https://cdnl.tblsft.com/sites/default/files/pages/platform-3-800x5002x_1.jpg)
 
 ## Introduction
